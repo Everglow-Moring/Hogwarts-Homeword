@@ -1,7 +1,6 @@
 import pytest
 from pythoncode.calculator import Calculator
 
-
 class TestCal:
     def setup_class(self):
         self.calc = Calculator()
