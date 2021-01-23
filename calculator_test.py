@@ -1,17 +1,20 @@
+"""
+使用 参数化 方法完成加减乘除测试
+"""
 import pytest
 from pythoncode.calculator import Calculator
 
 class TestCal:
     def setup_class(self):
         self.calc = Calculator()
-        print("开始测试计算：加、减、乘、除")
+        print("开始测试：加、减、乘、除")
     def teardown_class(self):
-        print("结束所有测试（加、减、乘、除）计算")
+        print("加、减、乘、除 的测试结束")
 
     def setup_method(self):
-        print("开始一次测试")
+        print("开始计算")
     def teardown_method(self):
-        print("结束一次测试\n")
+        print("计算结束\n")
 
     @pytest.mark.parametrize("a,b,expect",
                              [(0,1,1),(3,5,8),(-1,-1,-2),(1000,1000,2000)],
