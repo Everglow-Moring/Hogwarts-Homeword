@@ -1,0 +1,55 @@
+add_datas:
+  - [ 0,1,1 ]
+  - [ 3,5,8 ]
+  - [ -1,-2,-3 ]
+  - - 100
+    - 200
+    - 300
+my_addid:
+  - "yaml_zero"
+  - "yaml_int"
+  - "yaml_minus"
+  - "yaml_bigint"
+
+sub_datas:
+  - [ 1,0,1 ]
+  - [ 1,1,0 ]
+  - [ -1,8,-9 ]
+  - - 10000
+    - 9999
+    - 1
+my_subid:
+  - "yaml_zero"
+  - "yaml_int"
+  - "yaml_minus"
+  - "yaml_bigint"
+
+mul_datas:
+  - [ 1,0,0 ]
+  - [ 0,8,0 ]
+  - [ 1,1,1 ]
+  - [ -1,-1,1 ]
+  - - 2021
+    - 2000
+    - 4042000
+my_mulid:
+  - "yaml_zero"
+  - "yaml_zero1"
+  - "yaml_int"
+  - "yaml_minus"
+  - "yaml_bigint"
+
+div_datas:
+  - [ 1,0,0 ]
+  - [ 0,1,0 ]
+  - [ 40,5,8 ]
+  - [ -1,-1,1 ]
+  - - 4042000
+    - 2000
+    - 2021
+my_divid:
+  - "yaml_zero"
+  - "yaml_zero1"
+  - "yaml_int"
+  - "yaml_minus"
+  - "yaml_bigint"
