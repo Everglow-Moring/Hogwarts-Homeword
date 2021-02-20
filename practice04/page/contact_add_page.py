@@ -20,4 +20,3 @@ class ContactAdd(BasePage):
         self.find_and_click(MobileBy.XPATH, '//*[@text="保存"]')
         print("姓名、性别、手机号信息填写")
         return True
-

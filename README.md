@@ -8,7 +8,7 @@ _**_practice03: workweixin_autosignin：_**_
 APP企业微信自动打卡
 
 _**_practice04: workweixin_autosignin PageObject：_**_  
-APP企业微信自动打卡-PageObject封装
+APP企业微信添加成员-PageObject封装
 
 
 

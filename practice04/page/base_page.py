@@ -55,4 +55,3 @@ class BasePage:
 
     def swip_find_and_click(self, by, locator):
         return self.swip_find(by, locator).click()
-

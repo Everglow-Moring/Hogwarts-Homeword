@@ -2,6 +2,7 @@ from practice04.page.app import App
 
 
 class TestContact:
+
     # 首页 -> 通讯录 -> 滑动点击"添加成员" -> 手动添加 -> 信息填写
     def test_add_member(self):
         app = App()

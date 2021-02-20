@@ -11,7 +11,6 @@ class MemberInviteMenuPage(BasePage):
     def add_member_manual(self):
         """
         手动添加成员信息
-        :return:
         """
         print("点击手动添加成员信息")
         self.find_and_click(MobileBy.XPATH, '//*[@text="手动输入添加"]')

@@ -5,7 +5,7 @@ from practice04.page.main_page import MainPage
 
 class App(BasePage):
     """
-    启动操作：初始化driver
+    启动操作：初始化 driver
     """
 
     # 为什么不用setup？

@@ -17,4 +17,3 @@ class MainPage(BasePage):
         self.find_and_click(MobileBy.XPATH, '//*[@resource-id="com.tencent.wework:id/dqn" and @text="通讯录"]')
 
         return AdressListPage(self.driver)
-
