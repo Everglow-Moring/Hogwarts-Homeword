@@ -13,5 +13,8 @@ APP企业微信添加成员-PageObject封装
 _**_practice05: web_add_department_case PageObject_**_  
 Web企业微信添加部门-PageObject封装 + 时序图
 
+_**_practice06: test_ui_frame_**_  
+打造自己的测试框架一：用雪球迁移框架并实现黑名单操作（选用装饰器）
+
 
 
