@@ -10,7 +10,7 @@ APP企业微信自动打卡
 _**_practice04: workweixin_autosignin PageObject_**_  
 APP企业微信添加成员-PageObject封装
 
-_**_practice05: workweixin_autosignin PageObject_**_  
+_**_practice05: web_add_department_case_ PageObject_**_  
 Web企业微信添加部门-PageObject封装 + 时序图
 
 
