@@ -7,10 +7,10 @@ Web企业微信自动化登录作业： 使用序列化cookie的方式登录企�
 _**_practice03: workweixin_autosignin：_**_  
 APP企业微信自动打卡
 
-_**_practice04: workweixin_autosignin PageObject_**_  
+_**_practice04: appium_add_member_page_object_**_  
 APP企业微信添加成员-PageObject封装
 
-_**_practice05: web_add_department_case PageObject_**_  
+_**_practice05: web_weixin_page_object_**_  
 Web企业微信添加部门-PageObject封装 + 时序图
 
 _**_practice06: test_ui_frame_**_  
