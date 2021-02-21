@@ -1,4 +1,4 @@
-from practice04.page.app import App
+from practice04.appium_add_member_page_object.page.app import App
 
 
 class TestContact:

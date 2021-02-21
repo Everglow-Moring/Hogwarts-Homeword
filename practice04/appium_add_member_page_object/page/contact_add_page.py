@@ -1,5 +1,5 @@
 from appium.webdriver.common.mobileby import MobileBy
-from practice04.page.base_page import BasePage
+from practice04.appium_add_member_page_object.page import BasePage
 
 
 class ContactAdd(BasePage):

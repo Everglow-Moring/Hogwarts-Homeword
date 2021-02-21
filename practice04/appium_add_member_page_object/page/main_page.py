@@ -1,6 +1,6 @@
 from appium.webdriver.common.mobileby import MobileBy
-from practice04.page.address_list_page import AdressListPage
-from practice04.page.base_page import BasePage
+from practice04.appium_add_member_page_object.page.address_list_page import AdressListPage
+from practice04.appium_add_member_page_object.page import BasePage
 
 
 class MainPage(BasePage):

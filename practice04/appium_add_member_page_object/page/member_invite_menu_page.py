@@ -1,6 +1,6 @@
 from appium.webdriver.common.mobileby import MobileBy
-from practice04.page.base_page import BasePage
-from practice04.page.contact_add_page import ContactAdd
+from practice04.appium_add_member_page_object.page import BasePage
+from practice04.appium_add_member_page_object.page.contact_add_page import ContactAdd
 
 
 class MemberInviteMenuPage(BasePage):

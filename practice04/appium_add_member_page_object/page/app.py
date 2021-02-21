@@ -1,6 +1,6 @@
 from appium import webdriver
-from practice04.page.base_page import BasePage
-from practice04.page.main_page import MainPage
+from practice04.appium_add_member_page_object.page import BasePage
+from practice04.appium_add_member_page_object.page.main_page import MainPage
 
 
 class App(BasePage):
